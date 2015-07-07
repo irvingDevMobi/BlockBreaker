@@ -6,3 +6,5 @@ sysinfo.txt
 
 [Ee]xported[Oo]bj/
 /*.sln*
+/*.suo
+/*.csproj
