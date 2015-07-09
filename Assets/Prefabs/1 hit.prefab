@@ -55,6 +55,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   maxHits: 1
+  sprites: []
 --- !u!212 &21232898
 SpriteRenderer:
   m_ObjectHideFlags: 1
@@ -79,7 +80,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: b986a95512ca13b44a0f0d5599427180, type: 3}
+  m_Sprite: {fileID: 21300000, guid: bf6ca1da36d2acf409d42f71ac3eeaf2, type: 3}
   m_Color: {r: .687631249, g: .5031358, b: .727941155, a: 1}
 --- !u!1001 &100100000
 Prefab:
